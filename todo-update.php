@@ -43,7 +43,7 @@ function sp_todo_update() {
                     <tr><th>Name</th><td><input type="text" name="name" value="<?php echo $name; ?>"/></td></tr>
                 </table>
                 <input type='submit' name="update" value='Save' class='button'> &nbsp;&nbsp;
-                <input type='submit' name="delete" value='Delete' class='button' onclick="return confirm('&iquest;Est&aacute;s seguro de borrar este elemento?')">
+                <input type='submit' name="delete" value='Delete' class='button' onclick="return confirm('Are You Sure?')">
             </form>
         <?php } ?>
 

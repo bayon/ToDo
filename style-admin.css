@@ -5,3 +5,5 @@
 .ss-field-width {width:75%}
  .wp-list-table td input {width:100% !important;}
 .full-width{width:100%;}
+
+table tr:hover{background-color:#ccc;}

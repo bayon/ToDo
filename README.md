@@ -1,2 +1,2 @@
-# ToDo
-A simple wordpress ToDo crud plugin
+# Schools
+Schools crud example used for github updater test.
